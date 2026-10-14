@@ -1,0 +1,3 @@
+# Job Application and Management System
+
+A modern job application tracking platform designed to simplify and streamline the job search experience. It helps job seekers organize opportunities, track applications, manage interviews, and monitor their progress through an intuitive dashboard—replacing scattered spreadsheets and notes with one centralized workspace that makes job hunting more organized, efficient, and actionable.
